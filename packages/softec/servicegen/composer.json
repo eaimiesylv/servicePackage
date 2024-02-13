@@ -1,0 +1,15 @@
+{
+    "name": "softec/servicegen",
+    "description": "This package helps you to create a service class",
+    "autoload": {
+        "psr-4": {
+            "Softec\\Servicegen\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Okom Emmanuel"
+        }
+    ],
+    "require": {}
+}
